@@ -83,3 +83,13 @@ lib/
 
 MIT
 
+## 🧡 Apoie o Projeto
+
+Se este aplicativo te ajuda, considere apoiar o desenvolvimento e manutenção do **Didi Auth**.  
+Seu apoio é fundamental para continuar aprimorando o app e mantendo-o 100% gratuito e offline.
+
+### 💸 Doação via Pix
+
+- **Chave Pix:** 00020126580014BR.GOV.BCB.PIX0136a2a321c7-8fac-4cb6-b231-7ff72af3d4505204000053039865802BR5922Thiago Direnzi Biazato6009SAO PAULO6214051093wwp64MGi63047382
+
+![QR Code Pix](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=00020126580014BR.GOV.BCB.PIX0136a2a321c7-8fac-4cb6-b231-7ff72af3d4505204000053039865802BR5922Thiago%20Direnzi%20Biazato6009SAO%20PAULO6214051093wwp64MGi63047382)
