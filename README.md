@@ -24,6 +24,28 @@ Aplicativo Android para gerenciar senhas de forma segura, offline e 100% local.
 - **Bloqueio Progressivo** - Proteção anti-brute force
 - **Performance Otimizada** - Suporta milhares de senhas
 
+## 📸 Demonstração
+
+Abaixo estão algumas telas e um vídeo de apresentação do aplicativo:
+
+### 🖼️ Telas do App
+
+<p align="center">
+  <img src="./assets/images/tela_1.jpeg" alt="Tela 1" width="250">
+  <img src="./assets/images/tela_2.jpeg" alt="Tela 2" width="250">
+  <img src="./assets/images/tela_3.jpeg" alt="Tela 3" width="250">
+  <img src="./assets/images/tela_4.jpeg" alt="Tela 4" width="250">
+  <img src="./assets/images/tela_5.jpeg" alt="Tela 5" width="250">
+  <img src="./assets/images/tela_6.jpeg" alt="Tela 6" width="250">
+  <img src="./assets/images/tela_7.jpeg" alt="Tela 7" width="250">
+</p>
+
+### 🎥 Vídeo de Apresentação
+
+https://github.com/Direnzii/didi-auth/blob/main/assets/images/video_apresentacao.mp4
+
+![Demonstração do app](./assets/images/video_apresentacao.gif)
+
 ## Início Rápido
 
 ### Desenvolvimento
